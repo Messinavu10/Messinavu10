@@ -17,7 +17,15 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 
 ## 📊 Data Science Projects
 
-*Currently working on ETL and data science projects - stay tuned! 🚀*
+### 📈 [Microsoft SSKB ROI Analysis](https://drive.google.com/file/d/1TBGQ7TFB8IRhZ2jgCq9O3ophsLBAlsDJ/view?pli=1)
+*Business Intelligence & Statistical Analysis*
+
+- **Technologies:** Python, R, Statistical Modeling (GLM), Data Analysis, Business Intelligence
+- **Description:** Comprehensive ROI analysis of Microsoft's transition to Single-Source Knowledge Base (SSKB) for customer support, analyzing ~60,000 support cases
+- **Key Features:** Statistical Modeling, Operational Efficiency Analysis, Customer Satisfaction Trends, Business Impact Assessment
+- **🔗 [View Report](https://drive.google.com/file/d/1TBGQ7TFB8IRhZ2jgCq9O3ophsLBAlsDJ/view?pli=1)**
+
+---
 
 ---
 
