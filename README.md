@@ -89,12 +89,9 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 ## 🔬 Currently Working On
 
 ### 🎯 Active Projects
-- **Databricks Learning:** Expanding knowledge in Databricks and data engineering
-- **Snowflake Integration:** Learning cloud data warehousing and analytics
-- **Tableau Visualization:** Creating interactive dashboards and data visualizations
-- **Data Science Projects:** Working on comprehensive ETL and data science projects
-
-### 📚 Learning Goals
+- **Creating ETL Workflows:** Building robust data pipelines with Databricks and Apache Airflow
+- **Data Visualization:** Developing interactive dashboards and analytics with Tableau
+- **Cloud Data Engineering:** Implementing data solutions on Snowflake and cloud platforms
 - **Advanced MLOps:** Exploring advanced deployment strategies and monitoring
 - **LLM Applications:** Building applications with large language models
 - **Cloud Data Engineering:** Mastering AWS/GCP data services and infrastructure
