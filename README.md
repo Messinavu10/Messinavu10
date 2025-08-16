@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Naveen
 
 ## 📌 Quick Snapshot
-🎓 **M.S. Data Science** (UC Irvine) | **B.S. Computer Science** (USD)  
-⚡ **Focus:** Scalable Data Systems , AI/ML, Cloud Infrastructure, MLOps 
+🎓 **M.S. Data Science** (UC Irvine) | 🎓 **B.S. Computer Science** (USD)  
+⚡ **Focus:** Scalable Data Systems, AI/ML, Cloud Infrastructure, MLOps  
 📍 **Open to:** AI/ML Engineering & Data Infrastructure roles  
 
 ---
@@ -18,34 +18,6 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 ## 📊 Data Science Projects
 
 *Currently working on ETL and data science projects - stay tuned! 🚀*
-
----
-
-## 🤖 Machine Learning Projects
-
-### 🧠 [Vehicle Object Detection](https://github.com/Messinavu10/Vehicle-Object-Detection)
-*Computer Vision & Object Detection*
-
-- **Technologies:** Python, OpenCV, YOLO, TensorFlow
-- **Description:** Real-time vehicle detection system using computer vision and deep learning
-- **Key Features:** Object Detection, Real-time Processing, YOLO Implementation
-- **🔗 [View Project](https://github.com/Messinavu10/Vehicle-Object-Detection)**
-
-### 🎭 [Emotion Detection System](https://github.com/Messinavu10/Emotion-Detection-System)
-*Speech Processing & Emotion Recognition*
-
-- **Technologies:** Python, Speech Recognition, ML, Audio Processing
-- **Description:** Emotion detection system that analyzes speech patterns to identify emotional states
-- **Key Features:** Speech Analysis, Emotion Classification, Real-time Processing
-- **🔗 [View Project](https://github.com/Messinavu10/Emotion-Detection-System)**
-
-### 📄 [Simple Contract Parser](https://github.com/Messinavu10/simple-contract-parser)
-*Document Processing & NLP*
-
-- **Technologies:** Python, NLP, Document Processing
-- **Description:** Python program that converts contract documents into structured data
-- **Key Features:** Document Parsing, NLP Processing, Data Extraction, Contract Analysis
-- **🔗 [View Project](https://github.com/Messinavu10/simple-contract-parser)**
 
 ---
 
@@ -83,6 +55,34 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 - **Description:** AI-powered dialogue summarizer leveraging advanced NLP techniques
 - **Key Features:** Text Summarization, NLP Processing, AI/ML Integration
 - **🔗 [View Project](https://github.com/Messinavu10/TextSummarizer)**
+
+---
+
+## 🤖 Machine Learning Projects
+
+### 🧠 [Vehicle Object Detection](https://github.com/Messinavu10/Vehicle-Object-Detection)
+*Computer Vision & Object Detection*
+
+- **Technologies:** Python, OpenCV, YOLO, TensorFlow
+- **Description:** Real-time vehicle detection system using computer vision and deep learning
+- **Key Features:** Object Detection, Real-time Processing, YOLO Implementation
+- **🔗 [View Project](https://github.com/Messinavu10/Vehicle-Object-Detection)**
+
+### 🎭 [Emotion Detection System](https://github.com/Messinavu10/Emotion-Detection-System)
+*Speech Processing & Emotion Recognition*
+
+- **Technologies:** Python, Speech Recognition, ML, Audio Processing
+- **Description:** Emotion detection system that analyzes speech patterns to identify emotional states
+- **Key Features:** Speech Analysis, Emotion Classification, Real-time Processing
+- **🔗 [View Project](https://github.com/Messinavu10/Emotion-Detection-System)**
+
+### 📄 [Simple Contract Parser](https://github.com/Messinavu10/simple-contract-parser)
+*Document Processing & NLP*
+
+- **Technologies:** Python, NLP, Document Processing
+- **Description:** Python program that converts contract documents into structured data
+- **Key Features:** Document Parsing, NLP Processing, Data Extraction, Contract Analysis
+- **🔗 [View Project](https://github.com/Messinavu10/simple-contract-parser)**
 
 ---
 
@@ -139,7 +139,7 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 
 I'm always interested in collaborating on interesting projects and connecting with fellow data scientists and ML engineers.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/messinavu10/)
+[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://messinavu10.github.io/home)
 
 ---
