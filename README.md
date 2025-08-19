@@ -25,6 +25,14 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 - **Key Features:** Statistical Modeling, Operational Efficiency Analysis, Customer Satisfaction Trends, Business Impact Assessment
 - **🔗 [View Report](https://drive.google.com/file/d/1TBGQ7TFB8IRhZ2jgCq9O3ophsLBAlsDJ/view?pli=1)**
 
+### 🌍 [Databricks Global Finance ETL](https://github.com/Messinavu10/databricks-global-finance-etl)
+*Data Engineering & ETL Pipeline*
+
+- **Technologies:** Databricks, Apache Spark, Delta Lake, SQL, Data Lakehouse Architecture
+- **Description:** Comprehensive ETL project implementing Medallion Architecture for global financial and economic indicators from World Bank data
+- **Key Features:** End-to-End ETL Workflows, Medallion Architecture (Bronze/Silver/Gold), Interactive Dashboards, Data Lakehouse Implementation
+- **🔗 [View Project](https://github.com/Messinavu10/databricks-global-finance-etl)**
+
 ---
 
 ## 🔄 End-to-End Projects
