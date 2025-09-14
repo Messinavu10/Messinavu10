@@ -37,13 +37,13 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 
 ## 🔄 End-to-End Projects
 
-### 🏎️ [F1Bot - AI-Powered Formula 1 Data Analysis Assistant](https://f1bot.up.railway.app)
+### 🏎️ [F1Bot - AI-Powered Formula 1 Data Analysis Assistant](https://github.com/Messinavu10/formula-1-bot)
 *LLM-Orchestrated F1 Data-Analytics Platform*
 
 - **Technologies:** Python, LLM, MCP (Model Context Protocol), SQL, Visualization, Railway Deployment
 - **Description:** AI-powered Formula 1 analytics platform where LLM orchestrates tool selection and execution of SQL queries and visualization generation
 - **Key Features:** LLM Tool Orchestration, MCP Integration, SQL Execution, Data Visualization
-- **🔗 [Live Demo](https://f1bot.up.railway.app)**
+- **🔗 [View Project](https://github.com/Messinavu10/formula-1-bot)**
 
 ### 🍷 [Wine Quality End-to-End ML](https://github.com/Messinavu10/Wine-Quality-End-To-End-ML-Project)
 *Complete ML Pipeline & Deployment*
