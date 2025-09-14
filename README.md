@@ -150,6 +150,6 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 I'm always interested in collaborating on interesting projects and connecting with fellow data scientists and ML engineers.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/messinavu10/)
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://messinavu10.github.io/home)
+[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naveen.work)
 
 ---
