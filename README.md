@@ -17,6 +17,19 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 
 ## 📊 Data Science Projects
 
+### 🏡 [San Diego Real Estate Analytics](https://github.com/Messinavu10/real-estate-analytics)  
+*Data Engineering · ETL Pipeline · ML Modeling*  
+
+- **Technologies:** Databricks, PySpark, Delta Lake, scikit-learn, XGBoost, Pandas, Matplotlib/Seaborn  
+- **Description:** End-to-end analytics platform for San Diego County’s housing market, built on a Databricks Medallion Architecture pipeline (Bronze → Silver → Gold).  
+- **Key Features:**  
+  - Price prediction using XGBoost regression to identify under/overpriced listings  
+  - Time-to-sell classification model (fast / medium / slow), achieving ~80% balanced accuracy  
+  - Feature engineering (price-per-sqft, home age, log-transformed prices) for improved predictions  
+  - Dashboards powered by Gold-layer Delta tables with KPIs, scatter plots, and class distributions  
+- **🔎 Detailed Insights:** See Jupyter notebooks in the repo for full pipelines, modeling experiments, and performance visualizations.  
+- **🔗 [View Project](https://github.com/Messinavu10/real-estate-analytics)**  
+
 ### 🌍 [Databricks Global Finance ETL](https://github.com/Messinavu10/databricks-global-finance-etl)
 *Data Engineering & ETL Pipeline*
 
