@@ -50,6 +50,19 @@ I'm a Data Scientist and ML Engineer with expertise in building scalable AI/ML s
 
 ## 🔄 End-to-End Projects
 
+### 🏎️ [F1 Regulations RAG Assistant](https://github.com/Messinavu10/formula-rules-rag)
+*Agentic RAG System for Formula 1 Regulations Analysis*
+
+- **Technologies:** Python, LangChain, LangGraph, OpenAI, Pinecone, RAGAS, Streamlit
+- **Description:** Production-ready agentic RAG system that helps F1 race officials quickly find and analyze regulations using AI-powered document retrieval and reasoning
+- **Key Features:** 
+  - Multi-stage Agent Architecture (Reason-Act-Reflect)
+  - Advanced RAG Pipeline with Metadata Filtering
+  - LangSmith Tracing & Observability
+  - RAGAS Evaluation Framework
+  - PDF Processing & Vector Store Integration
+- **🔗 [View Project](https://github.com/Messinavu10/formula-rules-rag)**
+
 ### 🏎️ [F1Bot - AI-Powered Formula 1 Data Analysis Assistant](https://github.com/Messinavu10/formula-1-bot)
 *LLM-Orchestrated F1 Data-Analytics Platform*
 
